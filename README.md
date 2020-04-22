@@ -1,3 +1,3 @@
 # hello-world
 Using GIT
-Adding verbiage
+Adding verbiage - hello
